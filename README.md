@@ -21,7 +21,7 @@ A project to test some Amazon features
 
 <!-- DEMO ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="demo animation" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdscnVubjRoYXAxMGJ5MDgxdHFxZzVpZmZicWVpN2I4OTlmd3VzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUvAQg/giphy.gif"/>
 </p>
 
 ---
