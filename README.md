@@ -16,6 +16,7 @@ A project to test some Amazon features
 # Amazon Test Cases
 
 > A small project defining and automating end-to-end test cases for Amazon.es login and carousel features, ready to implement with Cypress.
+> https://github.com/spoksir/Testing_Amazon/raw/refs/heads/main/TestCase_Amazon_v1.xlsx
 
 ---
 
