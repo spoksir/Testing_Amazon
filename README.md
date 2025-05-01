@@ -35,8 +35,6 @@ A project to test some Amazon features
    - [Installation](#installation)  
 4. [Running Tests](#-running-tests)  
 5. [Project Structure](#-project-structure)  
-6. [Contributing](#-contributing)  
-7. [License](#-license)
 
 ---
 
